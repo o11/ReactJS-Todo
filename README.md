@@ -1,7 +1,6 @@
 ## ReactJS-Todo
 Simple ReactJS Todo app
 
------
 ![ss](ss.png)
 -----
 
